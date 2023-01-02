@@ -1,3 +1,3 @@
-Led a team on this project to build a model that predicts the price of an house using historical data of a number of features. 
+Led a team to build a model that predicts the price of a house using historical data of a number of features. We forcused more on using advanced regression algorithms like the Xgboost and Random forest algorithms.
 
-It was undertaken as a mini-project on the women Techsters Fellowship and as participation in a [Kaggle competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview) 
+This project was undertaken as a mini-project on the women Techsters Fellowship and as participation in a [Kaggle competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview) 
